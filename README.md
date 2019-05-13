@@ -8,7 +8,11 @@ Flutter circle bottom bar by animation
 
 #### how to use:
 
-##### 1. create tabs:
+##### 1. add dependencies to pubspec.yaml:
+
+    cupertino_icons: ^0.1.2
+
+##### 2. create tabs:
 ```dart
     List<TabItem> tabItems = List.of([
           new TabItem(Icons.person_outline, Colors.red.shade100),
@@ -19,7 +23,7 @@ Flutter circle bottom bar by animation
         ]);
 ```
 
-##### 2. create bottombar:
+##### 3. create bottombar:
 
 ```dart
 bottomNavigationBar: CircularBottomNavigation(
