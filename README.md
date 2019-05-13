@@ -1,4 +1,4 @@
-#Animation circle bottom bar
+# Animation circle bottom bar
 
 Flutter circle bottom bar by animation
 
@@ -6,9 +6,9 @@ Flutter circle bottom bar by animation
 ![](https://github.com/mehrtarh/animation_circle_bottom_bar/blob/master/sample_screen.png?raw=true)
 
 
-####how to use:
+#### how to use:
 
-#####1. create tabs:
+##### 1. create tabs:
 ```dart
     List<TabItem> tabItems = List.of([
           new TabItem(Icons.person_outline, Colors.red.shade100),
@@ -19,7 +19,7 @@ Flutter circle bottom bar by animation
         ]);
 ```
 
-#####2. create bottombar:
+##### 2. create bottombar:
 
 ```dart
 bottomNavigationBar: CircularBottomNavigation(
