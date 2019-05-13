@@ -11,7 +11,7 @@ Flutter circle bottom bar by animation
 ##### 1. add dependencies to pubspec.yaml:
 
 ```yaml
-circle_bottombar: ^1.1.0
+circle_bottombar: ^1.1.1
 ```
 
 ##### 2. create tabs:
