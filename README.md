@@ -10,7 +10,9 @@ Flutter circle bottom bar by animation
 
 ##### 1. add dependencies to pubspec.yaml:
 
-    cupertino_icons: ^0.1.2
+    ```yaml
+     cupertino_icons: ^0.1.2
+    ```
 
 ##### 2. create tabs:
 ```dart
