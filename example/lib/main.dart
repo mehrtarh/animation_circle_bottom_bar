@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:startapp_flutter/animation_circle_bottom_bar.dart';
-import 'package:startapp_flutter/tab_item.dart';
+import 'package:circle_bottombar/animation_circle_bottom_bar.dart';
+import 'package:circle_bottombar/tab_item.dart';
 
 void main() => runApp(MyApp());
 

@@ -3,7 +3,7 @@ library animation_circle_bottom_bar;
 import 'dart:core';
 
 import 'package:flutter/material.dart';
-import 'package:startapp_flutter/tab_item.dart';
+import 'package:circle_bottombar/tab_item.dart';
 
 typedef CircularBottomNavSelectedCallback = Function(int selectedPos);
 

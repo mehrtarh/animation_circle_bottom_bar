@@ -1,5 +1,5 @@
-name: startapp_flutter
-description: Admob plugin that shows banner ads using native platform views.
+name: circle_bottombar
+description: Animation circle bottom bar.
 version: 1.0.0
 author: Mehran Jafari  <mehran.flutter@gmail.com>
 homepage: https://github.com/mehrtarh/animation_circle_bottom_bar
