@@ -3,7 +3,7 @@
 Flutter circle bottom bar by animation
 
 
-![](https://github.com/mehrtarh/animation_circle_bottom_bar/blob/master/sample_screen.png?raw=true)
+![](https://github.com/mehrtarh/animation_circle_bottom_bar/blob/master/sample_gif.gif)
 
 
 #### how to use:
